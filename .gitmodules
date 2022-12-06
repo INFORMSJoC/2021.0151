@@ -1,0 +1,3 @@
+[submodule "bnelearn"]
+	path = bnelearn
+	url = https://github.com/heidekrueger/bnelearn
