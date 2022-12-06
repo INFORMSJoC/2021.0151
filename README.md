@@ -14,6 +14,7 @@ https://github.com/heidekrueger/bnelearn/. Please go there if you would like to 
 
 To cite this software, please cite the [paper](tbd) using its DOI and the software itself, using the suggested citation in the `bnelearn` software repository linked above.
 
+[![DOI](https://zenodo.org/badge/571825331.svg)](https://zenodo.org/badge/latestdoi/571825331)
 
 If you need to cite _this specific version_ of the code, you may use the citation below:
 
