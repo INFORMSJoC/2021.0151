@@ -1,6 +1,6 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# Learning Equilibria in Asymmetric Auction Games
+# Data for the Empirical Analysis of the Paper [Learning Equilibria in Asymmetric Auction Games]
 
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [General Public License v3.0](LICENSE).
