@@ -19,14 +19,14 @@ To cite this software, please cite the [paper](tbd) using its DOI and the softwa
 If you need to cite _this specific version_ of the code, you may use the citation below:
 
 ```
-@article{bichler202Xlearning,
-  author =        {Bichler, Martin and Heidekr\"uger, Stefan and Kohring, Nils},
-  publisher =     {INFORMS Journal on Computing},
-  title =         {Learning Equilibria in Asymmetric Auction Games,
-  year =          {202X},
-  doi =           {TBD},
-  note =          {https://github.com/INFORMSJoC/2021.0151}
-}  
+@article{bnelearn-asymmetric,
+  author    = {Bichler, Martin and Heidekr\"uger, Stefan and Kohring, Nils},
+  publisher = {INFORMS Journal on Computing},
+  title     = {{bnelearn-asymmetric} {V}ersion v2021.0151},
+  year      = {2023},
+  doi       = {https://zenodo.org/badge/latestdoi/571825331},
+  note      = {available for download at https://github.com/INFORMSJoC/2021.0151}
+}
 ```
 
 ## Description
