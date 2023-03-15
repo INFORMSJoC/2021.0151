@@ -1,4 +1,4 @@
-[![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
+[![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/doi/10.1287/ijoc.2023.1281)
 
 # Data for the Empirical Analysis of the Paper [Learning Equilibria in Asymmetric Auction Games]
 
@@ -12,7 +12,7 @@ https://github.com/heidekrueger/bnelearn/. Please go there if you would like to 
 
 ## Cite
 
-To cite this software, please cite the [paper](tbd) using its DOI and the software itself, using the suggested citation in the `bnelearn` software repository linked above.
+To cite this software, please cite the [paper](https://pubsonline.informs.org/doi/10.1287/ijoc.2023.1281) using its DOI and the software itself, using the suggested citation in the `bnelearn` software repository linked above.
 
 [![DOI](https://zenodo.org/badge/571825331.svg)](https://zenodo.org/badge/latestdoi/571825331)
 
