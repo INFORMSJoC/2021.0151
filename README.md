@@ -14,7 +14,7 @@ https://github.com/heidekrueger/bnelearn/. Please go there if you would like to 
 
 To cite this software, please cite the [paper](https://pubsonline.informs.org/doi/10.1287/ijoc.2023.1281) using its DOI and the software itself, using the suggested citation in the `bnelearn` software repository linked above.
 
-[![DOI](https://zenodo.org/badge/571825331.svg)](https://zenodo.org/badge/latestdoi/571825331)
+Code and Data DOI: [https://doi.org/10.1287/ijoc.2023.1281.cd](https://doi.org/10.1287/ijoc.2023.1281.cd)
 
 If you need to cite _this specific version_ of the code, you may use the citation below:
 
@@ -24,7 +24,7 @@ If you need to cite _this specific version_ of the code, you may use the citatio
   publisher = {INFORMS Journal on Computing},
   title     = {{bnelearn-asymmetric} {V}ersion v2021.0151},
   year      = {2023},
-  doi       = {https://zenodo.org/badge/latestdoi/571825331},
+  doi       = {10.1287/ijoc.2023.1281.cd},
   note      = {available for download at https://github.com/INFORMSJoC/2021.0151}
 }
 ```
